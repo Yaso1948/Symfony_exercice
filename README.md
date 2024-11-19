@@ -1,5 +1,5 @@
 # Symfony_exercice
-a test example for using the Symfony project, including matters such as CRUD,DQL,QueryBuiler,etc.(subject to change for whenever i have time to clarify more, this is all the superficial information you'll to execute a foreign symfony project) .
+a test example for using the Symfony project, including matters such as CRUD,DQL,QueryBuiler,etc.(subject to change for whenever i have time to clarify more, this is all the superficial information you'll need to execute a foreign symfony project) .
 
 the content of the test consists of the following:
   _Two entities: joueur/partie, join one to many from player to part, RCD for joueur,RCU to partie in addition a feature with the utility corresponding to the display of parties whose dates are between two statistically given dates._
